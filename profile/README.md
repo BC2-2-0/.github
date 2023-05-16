@@ -1,4 +1,5 @@
 # 2023 광주 AI·SW 체험 축전 출품작 😎
+## BlockChain Pay && Kiosk Vending Machine
 ---
 Who made BC2-2.0?
 - [정현욱](https://github.com/rkadl9999) ( System && PM )
